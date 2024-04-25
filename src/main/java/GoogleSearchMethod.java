@@ -6,6 +6,7 @@ import object.GoogleSearchpage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -38,31 +39,43 @@ public class GoogleSearchMethod {
         page.searchgoogle("Benepik Plus");
 
     }
+
     @Test(priority = 1)
     public void clckonBenepikplus() {
         objectrepo = new GoogleSearchpage(driver);
         objectrepo.Benepikplus();
     }
+
     @Test(priority = 2)
     public void Selectcountry() throws InterruptedException {
         BenepikPluswebpage page = new BenepikPluswebpage(driver);
         page.Choosecountry();
     }
+
     @Test(priority = 3)
     public void confirmotp() throws InterruptedException {
-        BenepikPluswebpage page=new BenepikPluswebpage(driver);
+        BenepikPluswebpage page = new BenepikPluswebpage(driver);
         page.ConfirmOtp();
     }
+
     @Test(priority = 4)
     public void MyWallet() throws InterruptedException {
-        BenepikPluswebpage page=new BenepikPluswebpage(driver);
+        BenepikPluswebpage page = new BenepikPluswebpage(driver);
         page.Mywallet();
     }
+
     @Test(priority = 5)
     public void Redeemnow() throws InterruptedException {
-        BenepikPluswebpage page=new BenepikPluswebpage(driver);
+        BenepikPluswebpage page = new BenepikPluswebpage(driver);
         page.RedeemNow();
     }
 
+    @AfterTest
+    public void afterTest() {
+        if (driver != null) {
+            driver.quit();
+        }
 
+
+    }
 }
