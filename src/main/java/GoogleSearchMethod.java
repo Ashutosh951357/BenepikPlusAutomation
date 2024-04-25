@@ -53,5 +53,16 @@ public class GoogleSearchMethod {
         BenepikPluswebpage page=new BenepikPluswebpage(driver);
         page.ConfirmOtp();
     }
+    @Test(priority = 4)
+    public void MyWallet() throws InterruptedException {
+        BenepikPluswebpage page=new BenepikPluswebpage(driver);
+        page.Mywallet();
+    }
+    @Test(priority = 5)
+    public void Redeemnow() throws InterruptedException {
+        BenepikPluswebpage page=new BenepikPluswebpage(driver);
+        page.RedeemNow();
+    }
+
 
 }

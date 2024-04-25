@@ -10,6 +10,10 @@ public class BenepikPluswebpage {
     By EnterPhonenumber= By.xpath("//*[@id=\"inputID\"]");
     By Submit=By.xpath("//*[@id=\"loginSubmitID\"]");
     By OTP=By.xpath("//*[@id=\"submitOtpId\"]");
+    By wallet=By.xpath("//*[@id=\"navbarSupportedContent\"]/div/div/div[2]/div/div/div[2]/div/ul/li[4]/a");
+    By Redeem= By.xpath("//*[@id=\"walletredeemId\"]");
+    By SelectBenepik =By.xpath("//*[@id=\"NaN\"][3]");
+    By redeemnow=By.xpath("//*[@id=\"redeemBtnId0\"]");
 
     WebDriver driver;
 
@@ -35,7 +39,20 @@ public class BenepikPluswebpage {
         public void ConfirmOtp() throws InterruptedException {
         Thread.sleep(22000);
         driver.findElement(OTP).click();
+        }
+        public void Mywallet() throws InterruptedException {
+        Thread.sleep(3000);
+        driver.findElement(wallet).click();
+        driver.findElement(Redeem).click();
+        driver.findElement(SelectBenepik).click();
 
         }
+        public void RedeemNow() throws InterruptedException {
+        Thread.sleep(3000);
+        driver.findElement(redeemnow).click();
+
+        }
+
+
 
     }
