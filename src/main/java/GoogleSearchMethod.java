@@ -44,10 +44,14 @@ public class GoogleSearchMethod {
         objectrepo.Benepikplus();
     }
     @Test(priority = 2)
-    public void Selectcountry() {
+    public void Selectcountry() throws InterruptedException {
         BenepikPluswebpage page = new BenepikPluswebpage(driver);
         page.Choosecountry();
-
-
     }
+    @Test(priority = 3)
+    public void confirmotp() throws InterruptedException {
+        BenepikPluswebpage page=new BenepikPluswebpage(driver);
+        page.ConfirmOtp();
+    }
+
 }
