@@ -1,0 +1,58 @@
+
+’	java:S116"PRename this field "India" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•òÀÑ8¡áÁÈ„2J$226ac7b7-3885-4857-8867-639ff07ceea0
+š	java:S116	"XRename this field "SelectCountry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó†Øƒ8¡áÁÈ„2J$20e16696-014b-4d86-b9bc-14fb3f9cec4e
+	java:S116
+"]Rename this field "HandleNotification" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ˆ’_8¡áÁÈ„2J$8d8b8f33-433f-4c13-a8eb-8aaf56b98321
+	java:S116"[Rename this field "EnterPhoneNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥³§š8¡áÁÈ„2J$5c0fc0e5-38f1-4e07-8131-03b5e17659ef
+’	java:S116"QRename this field "Submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›±\8¡áÁÈ„2J$741a32aa-942a-4c4b-8ecf-93af82c12924
+Ÿ	java:S116"XRename this field "Six_digit_OTP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Õ•ëøÿÿÿÿ8¡áÁÈ„2J$d7b0d614-9fe4-47f2-a290-fa10a92ead87
+•	java:S116"NRename this field "OTP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä˜ÿÿÿÿÿ8¡áÁÈ„2J$3b996f1a-4312-434c-ab7e-ca573efec448
+“	java:S116"QRename this field "Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃıÃ8¡áÁÈ„2J$3dcd0c32-8b2f-4cd1-a9a0-688d385b02b5
+œ	java:S116"URename this field "Search_Bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Éá±úÿÿÿÿ8¡áÁÈ„2J$34ae7ed5-1bc4-469c-b9b3-3c5f39b901c3
+£	java:S116"\Rename this field "UpiTransferButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‘«ûÿÿÿÿ8¡áÁÈ„2J$d028fefc-3eac-4dfa-9db9-57fd6df32192
+	java:S116"VRename this field "SelectUpiId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¸ğ°ıÿÿÿÿ8¡áÁÈ„2J$4a2f807f-5853-40c3-a1fd-5f5416a93106
+ 	java:S116"YRename this field "ClientTransfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ğ˜Óıÿÿÿÿ8¡áÁÈ„2J$a2d2d60f-67f3-45f7-8a27-4343379aa6f4
+ 	java:S116"^Rename this field "Upi_Transfer_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÇË8¡áÁÈ„2J$23df5d18-a8fe-4f10-bd07-11e4b1ffec48
+¦	java:S116"_Rename this field "Upi_Transfer_Confirm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§×Éùÿÿÿÿ8¡áÁÈ„2J$113b80a1-07e7-4eb0-a091-39829510763c
+ª	java:S116"cRename this field "Upi_Transfer_Confirm_Otp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹€÷Öÿÿÿÿÿ8¡áÁÈ„2J$36d2eaa1-f28a-4357-988e-bb4784dae1c0
+Ÿ	java:S116"]Rename this field "Delete_UPI_Account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š–Ó8¡áÁÈ„2J$389f475d-e429-4753-aa0a-f134db2b32f2
+¦	java:S116 "eRename this field "Confirm_delete_UPI_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òĞĞ(8¡áÁÈ„2J$8e07e69f-dcfc-4a0f-8edc-d7ff4353d0ef
+ 	java:S116""^Rename this field "Add_new_upi_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØæÓ´8¡áÁÈ„2J$a7c76c33-2fe3-4c7b-890c-d4f9b9d921a9
+¦	java:S116$"_Rename this field "Add_Beneficiary_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÆÑôıÿÿÿÿ8¡áÁÈ„2J$22d3d5c5-0fad-4f0b-9953-ed043fad86b5
+œ	java:S116&"URename this field "New_UPI_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ŠÃÿÿÿÿÿ8¡áÁÈ„2J$67c5b15e-86aa-476b-98b0-31b821e2f24b
+˜	java:S116("VRename this field "Save_UPI_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Éä©8¡áÁÈ„2J$7e17f83f-9290-41ca-a9aa-ef9a85705eae
+ 	java:S116*"YRename this field "Confirm_UPI_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¾×éıÿÿÿÿ8¡áÁÈ„2J$ab4c06dd-38e6-4a8e-ab1e-f7270e11de73
+ 	java:S116,"_Rename this field "Bank_Transfer_Button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ôÇ8¡áÁÈ„2J$435f4ac5-8ce2-453c-90d7-31b4f97b666d
+¥	java:S116."^Rename this field "Select_Bank_Account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦‰ùÿÿÿÿ8¡áÁÈ„2J$d60f6cc6-9f11-4341-aafe-b875acf26fd7
+¡	java:S1160"_Rename this field "Transfer_amount_bank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûà£Ú8¡áÁÈ„2J$76274aa2-d3fe-4dcc-b48a-517ade4c38e1
+¡	java:S1162"_Rename this field "Bank_Transfer_Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ò¡Ÿ8¡áÁÈ„2J$b114d5bf-2f59-4f9f-9feb-d0732f7b9d85
+ 	java:S1164"^Rename this field "Confirm_Bank_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùõã¶8¡áÁÈ„2J$cc28333f-31a8-441c-a639-d57ab191e48f
+¥	java:S1166"dRename this field "Confirm_OTP_Bank_Transfer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅß:8¡áÁÈ„2J$eb871df6-fc28-476b-a8ff-ceabedb1f5da
+	java:S1168"\Rename this field "Redemption_Button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÀëˆ8¡áÁÈ„2J$398bc20c-633b-4479-bfc6-8f1a97139273
+¦	java:S116:"_Rename this field "Add_Money_Redemption" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€–Ïåøÿÿÿÿ8¡áÁÈ„2J$be8dd6a7-beea-4db7-a46a-9430a44b9750
+•	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á°½’ùÿÿÿÿ8¦áÁÈ„2J$3e4fc86d-18fc-4681-b0da-0ac8e58efae2
+y
+java:S1874A"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8§áÁÈ„2J$e977d6cb-b2a5-4ead-ae95-19661a1a620d
+•	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²à…±øÿÿÿÿ8©áÁÈ„2J$0baf5de3-45aa-4a22-a39f-391bf981601c
+y
+java:S1874M"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8©áÁÈ„2J$5cd0e33d-e5c1-4b1e-ab4a-fe6dfe21def5
+	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÁ¿f8ªáÁÈ„2J$c8083bec-6d7d-4ec6-ad77-c393f3e7e55a
+y
+java:S1874T"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ªáÁÈ„2J$5edb6967-9fb3-4c64-a76b-cb2e69b9ef60
+	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹íÑ8«áÁÈ„2J$6fd42811-731b-454b-8897-9dd76e7a8cd7
+y
+java:S1874]"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8«áÁÈ„2J$3a6a940f-e438-4d75-8d98-df01ff1efa56
+	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô˜€8«áÁÈ„2J$00984e56-0738-4de2-80d1-674132d8971e
+y
+java:S1874b"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8«áÁÈ„2J$a456c6f0-4c42-46ca-bb3f-bcef6da04180
+	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÕÓü8¬áÁÈ„2J$3c706e77-a609-4a5f-9261-b13a80a5ffc2
+•	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—»ƒíúÿÿÿÿ8­áÁÈ„2J$87135261-0b8a-4dca-8c71-395459bca69a
+•	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âªöùÿÿÿÿ8­áÁÈ„2J$76b2d22f-6d4e-45cb-bcfa-fb741b834f9b
+y
+java:S1874|"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8®áÁÈ„2J$7bb8f3b4-cdf5-4143-8894-54b268588dfe
+‘	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—’íì8®áÁÈ„2J$5b768f23-4bd2-4002-949d-70bc7d0d9d48
+z
+java:S1874‡"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8¯áÁÈ„2J$91ab94a9-3972-483f-bf3b-a11b6b9ee9f4
+–	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ÿøÿÿÿÿ8¯áÁÈ„2J$2e138457-aef1-4b42-8d51-c4f96b4c7dbd
+z
+java:S1874“"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8°áÁÈ„2J$c1db4861-9bb5-40d3-a221-4dfbbfdd4c2a

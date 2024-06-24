@@ -1,0 +1,17 @@
+
+š
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8°ïÖ€ƒ2J$285ff5a1-8197-48ab-a9e6-c1b7a65c0838
+t
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8°ïÖ€ƒ2J$ca718371-1656-4e3d-8290-16107f5cc85d
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‰ôçüÿÿÿÿ8²ïÖ€ƒ2J$7841de1e-aac8-4801-913c-57b3376f9922
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(û¬…ìÿÿÿÿÿ8³ïÖ€ƒ2J$3cd4b916-9ed6-4bea-b6fd-6042e6b7105f
+y
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8µïÖ€ƒ2J$179221ba-7dcd-4b22-adb4-110505712488
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸øäş8µïÖ€ƒ2J$97fb0e41-8f55-4f43-9f75-84b137cd4c26
+	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾ìÎ8¶ïÖ€ƒ2J$946f37aa-5a19-4aca-9fd4-894e6394ffde
+•	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô­µÜûÿÿÿÿ8¶ïÖ€ƒ2J$aed384a3-75ba-4010-b32e-0714f066c8b4
+•	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£©ƒ«ùÿÿÿÿ8¶ïÖ€ƒ2J$041850e7-8e54-4ffb-a351-a432cd98fb29
+	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¶”8·ïÖ€ƒ2J$35fd8feb-3e64-4720-8472-0a7f81a3aaa5
+	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Î¨o8·ïÖ€ƒ2J$f17ea15e-f7f7-4aa1-b657-3cb92311679d
+ƒ	java:S125A"<This block of commented-out lines of code should be removed.(©¢Ùïúÿÿÿÿ8·ïÖ€ƒ2J$f6012c22-5a58-4402-a166-fdbdf4330b75

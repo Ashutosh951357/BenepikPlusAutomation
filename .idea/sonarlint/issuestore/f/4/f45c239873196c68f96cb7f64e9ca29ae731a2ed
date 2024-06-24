@@ -1,0 +1,16 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÇŠÄ8×ŸÎÏ‚2J$390e192a-32c6-4759-9b4b-c0fe06856659
+š
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8×ŸÎÏ‚2J$906f9e5f-31b3-473d-b929-6c3c70b9b0f6
+t
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8×ŸÎÏ‚2J$d544e08b-ecc2-4f79-aa6c-f16bcb0870dc
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‰ôçüÿÿÿÿ8ÚŸÎÏ‚2J$b174d4f4-752d-4339-b08c-06e2be1acb4a
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(û¬…ìÿÿÿÿÿ8ÚŸÎÏ‚2J$c4dfe1b7-51b1-4382-9fb1-1a98dda71321
+y
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ÜŸÎÏ‚2J$c463d858-fe2e-45b4-9c9b-9141306acd1d
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸øäş8İŸÎÏ‚2J$ac741527-3fe4-45c7-8ba3-eba998352fe4
+	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾ìÎ8İŸÎÏ‚2J$835aed3d-b728-4606-b0eb-e1c48fc6c91c
+•	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô­µÜûÿÿÿÿ8ŞŸÎÏ‚2J$4ab3b751-9822-4483-88fd-7a5ab7d97ee3
+•	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£©ƒ«ùÿÿÿÿ8ŞŸÎÏ‚2J$f2d72ed6-8bdd-4838-a562-e0f17d20fd24
+•	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶œ÷Œùÿÿÿÿ8ßŸÎÏ‚2J$99f30675-04bb-4562-a842-6ada7d6b2690

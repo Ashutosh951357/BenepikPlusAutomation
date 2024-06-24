@@ -1,0 +1,18 @@
+
+š
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8’ö¾®‚2J$a7227009-a284-47ed-9c3b-ede8727a659c
+t
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8“ö¾®‚2J$49b1c220-b9fd-4962-84f8-79ff0bbb959a
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‰ôçüÿÿÿÿ8•ö¾®‚2J$ea17bd56-128a-437e-8ef1-2131068f2281
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(û¬…ìÿÿÿÿÿ8•ö¾®‚2J$cb6ccebb-9c4f-4cea-8e8a-896900e478dd
+y
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8—ö¾®‚2J$2958f0dc-a9bf-416e-a776-c5bc70791964
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸øäş8˜ö¾®‚2J$93b61f37-c15d-48e3-9240-0605dcf48b16
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¸øäş8Œ©Á‚ƒ2
+	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾ìÎ8˜ö¾®‚2J$5b01e5e6-f448-4e3a-bee7-4c719bbb0551
+”
+java:S1130&"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(»¾ìÎ8©Á‚ƒ2
+•	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô­µÜûÿÿÿÿ8™ö¾®‚2J$5a55403d-be85-4379-b95e-c1566c1a04b2
+	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—’íì8™ö¾®‚2J$2deb25aa-0a29-4945-a8b2-74276dc1ddf7

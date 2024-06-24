@@ -1,0 +1,44 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤±ê÷úÿÿÿÿ8ý×ßÆ„2J$798d29ba-e3dc-43e2-9630-662f47311903
+˜	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ã¤­þÿÿÿÿ8ý×ßÆ„2J$e2504f11-8081-41d2-8dcb-54997cd16f2c
+˜	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ùæ‚üÿÿÿÿ8ý×ßÆ„2J$2716ed29-ff14-4107-a4ef-4a3762c50d45
+’	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â™°^8ý×ßÆ„2J$b8441c71-968e-4647-8465-e7913d604afd
+š
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8ý×ßÆ„2J$c6b30efb-1051-4423-b266-32c961b9e68e
+¢
+java:S1488S"_Immediately return this expression instead of assigning it to the temporary variable "dataURI".(ï¥²ç8þ×ßÆ„2J$93495559-c1ca-4e3a-83b3-81bc97ec58b9
+t
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8ÿ×ßÆ„2J$0853a0c5-3dd5-4db3-a92c-5f467aa52a18
+‘
+java:S1192b"NDefine a constant instead of duplicating this literal " milliseconds" 5 times.(¯Ä¨—8€ØßÆ„2J$d1c91c36-ecf9-4c12-9bce-cb5afd22775e
+‘
+java:S11921"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(¯ðÍ¶øÿÿÿÿ8€ØßÆ„2J$4ecb8c23-ad0f-4cdd-8ff1-814c512531e5
+“
+java:S1192b"PDefine a constant instead of duplicating this literal "Test duration: " 5 times.(¯Ä¨—8€ØßÆ„2J$3d9fd9f6-0a50-42e1-adf5-f7d95ef272aa
+•	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ï™üþÿÿÿÿ8ƒØßÆ„2J$4a66342b-78e1-4822-8c46-2f1d6f96dc50
+~	java:S125)"<This block of commented-out lines of code should be removed.(¶øðŸ8…ØßÆ„2J$175df6dc-c2a2-4b70-9a17-a6099ccbdcde
+~
+java:S2696,"6Make the enclosing method "static" or remove this set.(û¬…ìÿÿÿÿÿ8…ØßÆ„2J$a157a559-8dba-4883-8e53-dbce6c2b7e32
+y
+java:S1874."6Remove this use of "implicitlyWait"; it is deprecated.(µŽ÷®8‡ØßÆ„2J$34a19346-55cb-4134-afb7-a8954db20131
+~
+java:S26961"6Make the enclosing method "static" or remove this set.(¯ðÍ¶øÿÿÿÿ8‡ØßÆ„2J$0827c9f9-1835-45ef-9be2-6d63019e9998
+~
+java:S26966"6Make the enclosing method "static" or remove this set.(‡×Ü½øÿÿÿÿ8‰ØßÆ„2J$bc75fbd6-0880-4e0d-aca2-b808be10a5d7
+}	java:S899K";Do something with the "boolean" value returned by "delete".(‘Éüú8ŽØßÆ„2J$aa9a418f-92e8-43f0-855b-d06c052d54e4
+‘
+java:S4042K"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‘Éüú8ŽØßÆ„2J$462b0df8-2140-4e54-9694-9d7a085d3f21
+ƒ	java:S125N"<This block of commented-out lines of code should be removed.(ÓÇÎœøÿÿÿÿ8ŽØßÆ„2J$3d2bc304-7d0d-4a56-a94d-82f186357b08
+•	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰äâ±þÿÿÿÿ8ØßÆ„2J$97eaace3-8985-4781-93ce-4bae39cd665a
+¿
+java:S1130W"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‰äâ±þÿÿÿÿ8ØßÆ„2J$6d07f4e0-ae8c-42ef-bdcd-197ca29ce664
+•	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ûèÔùÿÿÿÿ8‘ØßÆ„2J$9fc3b6ed-0ffe-434d-ab3e-78e41c6330b7
+•	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½–æûÿÿÿÿ8’ØßÆ„2J$817e103e-953f-44f1-952c-a74141013cca
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ý¾8“ØßÆ„2J$49b97172-4996-4bf7-9e66-0b1df5538c4b
+	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‹Ô/8”ØßÆ„2J$2d149499-1c95-419a-af73-c00ff2c71340
+¢
+java:S2142’"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ý¾8•ØßÆ„2J$11ce1748-a905-4bef-b0c5-e1632853cd1d
+‘	java:S100ž"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¡¡Î8–ØßÆ„2J$6f8e1b31-b83a-49e9-bf1c-ee3877191e08
+¢
+java:S2142¦"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ý¾8–ØßÆ„2J$2f4a84c6-343d-4251-b408-3169f4fdb491

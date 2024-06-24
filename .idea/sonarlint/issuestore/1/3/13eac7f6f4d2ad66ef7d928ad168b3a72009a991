@@ -1,0 +1,15 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ«„ÊJ$71935cda-0e6b-4380-ad4b-fd84f3f2d5c8
+š
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8Ü±…€2J$48cf5f01-fff5-41a7-b565-323ff680baa3
+t
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8İ±…€2J$af0ed996-0877-4424-abb3-077ea614357d
+
+java:S11922"HDefine a constant instead of duplicating this literal "Benepik" 3 times.(ÒÙ×³ıÿÿÿÿ8°š›€2J$d178f865-95a4-433c-9c12-d768f95d03db
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(Âéã±8ã±…€2J$27256ccf-8e7a-4623-9f50-4b6d13c9cbfe
+y
+java:S2696""6Make the enclosing method "static" or remove this set.(Î°¸ó8æ±…€2J$db0b8120-6ed4-46c8-be6f-fbeaa987b45f
+~
+java:S2696)"6Make the enclosing method "static" or remove this set.(üü ƒıÿÿÿÿ8·š›€2J$0338e387-29a4-43ad-822d-24932a43f798
+•	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûñ”½úÿÿÿÿ8¸š›€2J$595ee60b-7799-4d07-8dbe-48a427db2bf4
